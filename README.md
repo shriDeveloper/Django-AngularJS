@@ -85,6 +85,6 @@ Team CFE
 
 Examples:
 <br/>
-[Integrate Angular JS with Django] (https://shriniket.home.blog/2019/09/22/integrate-angular-js-with-django-filter-application/)
+[Integrate Angular JS with Django](https://shriniket.home.blog/2019/09/22/integrate-angular-js-with-django-filter-application/)
 
 
