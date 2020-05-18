@@ -84,7 +84,7 @@ Team CFE
 [35 - Comment Delete, User Login Update](../../tree/aba30f042e9c6b59e652d86c2e461ffb4323c644)
 
 ## Examples:
-<br/><br/>
+<br/>
 [Integrate Angular JS with Django](https://shriniket.home.blog/2019/09/22/integrate-angular-js-with-django-filter-application/)
 
 
